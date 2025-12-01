@@ -1,3 +1,9 @@
+<!--
+Titel: SPA-Game
+
+Beskrivning:
+Full Stack game app with registration, secure authentication, profiles, a highscore leaderboard, persistent game state and real-time notifications. (ASP.NET core, C#, React, Signal R, SQL, EF)
+
 # SPA Game
 
 ---
@@ -50,3 +56,5 @@ React is used for the frontend to manage user interface and enables dynamic rend
 ## Production Deployment
 
 If this application was to be deployed for production a scalable and fault-tolerant approach would be used, this could be achieved using cloud infrastructure with either AWS, Azure or Google Cloud platform. The app components could be containerized using Docker for consistent deployment across environments and Kubernetes could be used for orchestrating containerized services and enabeling automatic scaling as well as load balancing. CI/CD pipelines could also be implemented to automate testing, building and deploying application updates in an easy way.
+
+-->
